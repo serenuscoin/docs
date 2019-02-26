@@ -25,11 +25,14 @@ extremely good prices for swapping between ether and dollar-stable
 serenus. The bid/offer spreads are far better than on other
 decentralised exchanges and commissions are comparable to centralised
 exchanges. Note that this is a specialised exchange: you can only swap
-between ether and serenus and back again. See the white paper for more
-details.
+between ether and serenus and back again. See the `white paper
+<https://serenuscoin.com/assets/files/serenuscoinwhitepaper.pdf>`_ for
+more details.
 
-Contact us with any questions or join our community on Reddit and
-Twitter.
+`Contact us <siva@serenuscoin.com>`_ with any questions or join our
+community on `Reddit <https://www.reddit.com/r/serenuscoin/>`_,
+`Twitter <https://twitter.com/8bitbytebit>`_ or `Telegram
+<https://t.me/serenuscoin>`_.
 
 
 
@@ -39,6 +42,7 @@ Index
 .. toctree::
     :maxdepth: 2
 
+    introduction.rst
     users.rst
     issuers.rst
     contracts.rst
