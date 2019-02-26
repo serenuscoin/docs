@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = u'Serenus Coin'
-copyright = u'2019, Sivakumar Arumugam'
+copyright = u'2019, Serenus Coin'
 author = u'Sivakumar Arumugam'
 
 # The short X.Y version
