@@ -3,18 +3,43 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Serenus Coin's documentation!
-========================================
+Serenus Coin
+============
+	
+.. image:: srslogo.png
+   :alt: SRS Logo
+   :align: center
+
+.. warning::
+   This documentation is incomplete. Please use with caution.
+   
+Serenus Coin is a stable coin system. It issues a crytocurrency that
+retains a stable value with respect to the US dollar by holding
+ethereum as crypto-collateral. Issuers take on the risk of holding
+ethereum for a small fee. Users receive a dollar-equivalent value of
+serenus. It is available to anyone at any time as a store of value or
+medium of exchange on the ethereum mainnet.
+
+The smart contract system that Serenus Coin is built on provides
+extremely good prices for swapping between ether and dollar-stable
+serenus. The bid/offer spreads are far better than on other
+decentralised exchanges and commissions are comparable to centralised
+exchanges. Note that this is a specialised exchange: you can only swap
+between ether and serenus and back again. See the white paper for more
+details.
+
+Contact us with any questions or join our community on Reddit and
+Twitter.
+
+
+
+Index
+=====
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+    :maxdepth: 2
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+    users.rst
+    issuers.rst
+    contracts.rst
+    
