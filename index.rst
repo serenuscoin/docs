@@ -31,7 +31,7 @@ more details.
 
 `Contact us <siva@serenuscoin.com>`_ with any questions or join our
 community on `Reddit <https://www.reddit.com/r/serenuscoin/>`_,
-`Twitter <https://twitter.com/8bitbytebit>`_ or `Telegram
+`Twitter <https://twitter.com/getserenus>`_ or `Telegram
 <https://t.me/serenuscoin>`_.
 
 
